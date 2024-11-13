@@ -3,6 +3,8 @@
 
 public struct HelloOpenSource {
     
+    public init() { }
+    
     public func greet() {
         print("Hello from Open Source!")
     }
